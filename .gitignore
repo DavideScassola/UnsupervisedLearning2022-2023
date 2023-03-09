@@ -25,3 +25,9 @@ Manifest.toml
 
 # pdf
 *.pdf
+
+# datasets
+*.zip
+*.xlsx
+*Data*
+*data*
