@@ -33,6 +33,7 @@ Manifest.toml
 *data*
 *.txt
 *.dat
+*.gz
 
 # Pythn virtual environment
 .venv
